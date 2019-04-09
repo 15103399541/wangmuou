@@ -3,9 +3,10 @@
 #### 安装
 npm install
 
-#### 运行
- 项目运行：npm run srver
- server运行： node index
+#### 项目运行
+npm run server
+#### server运行
+node index
 
 #### 项目介绍
 该项目是以养生食疗为主题的网站，具有养生知识推荐，养生菜谱搜索，测试身体状况，记录已做事情等功能
